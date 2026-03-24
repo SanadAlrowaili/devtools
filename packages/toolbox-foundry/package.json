@@ -22,7 +22,7 @@
     "jest": "^29.7.0",
     "solidity-bytes-utils": "^0.8.2",
     "ts-node": "^10.9.2",
-    "tsup": "~8.0.1",
+    "tsup": "~8.3.5",
     "typescript": "^5.4.4"
   },
   "publishConfig": {

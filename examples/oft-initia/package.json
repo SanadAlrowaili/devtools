@@ -46,7 +46,7 @@
   "dependencies": {
     "@initia/initia.js": "^0.2.28",
     "@types/glob": "^8.1.0",
-    "glob": "^11.0.1"
+    "glob": "^12.0.0"
   },
   "devDependencies": {
     "@aptos-labs/ts-sdk": "^1.33.1",
@@ -102,7 +102,7 @@
     "solidity-bytes-utils": "^0.8.2",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
-    "tsup": "^8.0.1",
+    "tsup": "^8.3.5",
     "typescript": "^5.4.4",
     "yaml": "^2.6.1"
   },

@@ -53,7 +53,7 @@
     "@swc/jest": "^0.2.36",
     "@types/bn.js": "~5.1.5",
     "@types/jest": "^29.5.12",
-    "bn.js": "^5.2.0",
+    "bn.js": "^5.2.3",
     "exponential-backoff": "~3.1.1",
     "fast-check": "^3.15.1",
     "fp-ts": "^2.16.2",
@@ -61,7 +61,7 @@
     "jest-extended": "^4.0.2",
     "ts-node": "^10.9.2",
     "tslib": "~2.6.2",
-    "tsup": "~8.0.1",
+    "tsup": "~8.3.5",
     "typescript": "^5.4.4",
     "zod": "^3.22.4"
   },
@@ -70,7 +70,7 @@
     "@layerzerolabs/io-devtools": "~0.3.2",
     "@layerzerolabs/lz-definitions": "^3.0.148",
     "@solana/web3.js": "^1.95.8",
-    "bn.js": "^5.2.0",
+    "bn.js": "^5.2.3",
     "fp-ts": "^2.16.2",
     "zod": "^3.22.4"
   },

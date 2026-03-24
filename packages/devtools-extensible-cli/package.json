@@ -33,7 +33,7 @@
   "devDependencies": {
     "@types/argparse": "^2.0.17",
     "argparse": "^2.0.1",
-    "tsup": "^8.0.1",
+    "tsup": "^8.3.5",
     "typescript": "^5.4.4"
   },
   "engines": {
