@@ -461,7 +461,7 @@ checksum = "7c74b8349d32d297c9134b8c88677813a227df8f779daa29bfc29c183fe3dca6"
 [[package]]
 name = "cpi-helper"
 version = "0.1.0"
-source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=200cda2#200cda254120375f40ed0a7e89931afb897b8891"
+source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=c09287a#c09287a8b1f236fcc057f474d8a773a0fb7758df"
 dependencies = [
  "bs58",
  "proc-macro2",
@@ -545,7 +545,7 @@ dependencies = [
 [[package]]
 name = "endpoint-interface"
 version = "0.1.0"
-source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=200cda2#200cda254120375f40ed0a7e89931afb897b8891"
+source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=c09287a#c09287a8b1f236fcc057f474d8a773a0fb7758df"
 dependencies = [
  "anchor-lang",
  "cpi-helper",
@@ -682,9 +682,9 @@ dependencies = [
 
 [[package]]
 name = "keccak"
-version = "0.1.5"
+version = "0.1.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ecc2af9a1119c51f12a14607e783cb977bde58bc069ff0c3da1095e635d70654"
+checksum = "cb26cec98cce3a3d96cbb7bced3c4b16e3d13f27ec56dbd62cbc8f39cfb9d653"
 dependencies = [
  "cpufeatures",
 ]
@@ -781,7 +781,7 @@ dependencies = [
 [[package]]
 name = "messagelib-interface-latest"
 version = "0.1.0"
-source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=200cda2#200cda254120375f40ed0a7e89931afb897b8891"
+source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=c09287a#c09287a8b1f236fcc057f474d8a773a0fb7758df"
 dependencies = [
  "anchor-lang",
 ]
@@ -837,7 +837,7 @@ dependencies = [
 [[package]]
 name = "oapp-latest"
 version = "0.2.0"
-source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=200cda2#200cda254120375f40ed0a7e89931afb897b8891"
+source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=c09287a#c09287a8b1f236fcc057f474d8a773a0fb7758df"
 dependencies = [
  "anchor-lang",
  "endpoint-interface",
@@ -2120,7 +2120,7 @@ checksum = "f6ccf251212114b54433ec949fd6a7841275f9ada20dddd2f29e9ceea4501493"
 [[package]]
 name = "utils-latest"
 version = "0.1.0"
-source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=200cda2#200cda254120375f40ed0a7e89931afb897b8891"
+source = "git+https://github.com/LayerZero-Labs/LayerZero-v2.git?rev=c09287a#c09287a8b1f236fcc057f474d8a773a0fb7758df"
 dependencies = [
  "anchor-lang",
 ]
