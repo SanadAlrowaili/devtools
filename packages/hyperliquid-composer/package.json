@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "commander": "^11.1.0",
-    "hardhat": "^2.22.10",
+    "hardhat": "^2.22.16",
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
