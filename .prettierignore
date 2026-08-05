@@ -5,3 +5,7 @@
 .netrc
 *ignore
 pnpm-lock.yaml
+
+# Standalone Next.js apps outside the pnpm workspace, including their build
+# output. They are formatted by their own tooling.
+apps
