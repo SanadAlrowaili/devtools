@@ -1,3 +1,7 @@
 .turbo
 dist
 node_modules
+
+# Standalone Next.js apps outside the pnpm workspace. They carry their own
+# ESLint config (eslint-config-next); the root config has no JSX support.
+apps
